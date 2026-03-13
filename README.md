@@ -4,8 +4,19 @@
 
 A full-stack app that lets Claude generate interactive SVG/HTML widgets in real time — streamed live as Claude thinks.
 
-![Screenshot](images/screenshot.png)
+## DEMO
 
+> Prompt: What's a good major for someone who likes these things: sketching, visiting old buildings, and solving 3D puzzles. Map out careers with that vibe.
+> ![Screenshot](images/screenshot.png)
+
+> Prompt:   Build an S&P 500 compound interest calculator.Inputs: initial investment, monthly contribution, years, annual return rate (default 10.5%).Show final amount, total contributions, and total gains.Add a year-by-year growth chart.  
+> ![snp_500_calculator.png](images/snp_500_calculator.png)
+
+> Prompt: Show me a 3D cube that I can rotate and change colors on.
+> ![3d_cube.png](images/3d_cube.png)
+
+> Prompt: Create a widget that shows the current weather in New York City, including temperature, conditions, and an icon.
+> ![weather_widget.png](images/weather_widget.png)
 ---
 
 ## How it works
